@@ -23,4 +23,4 @@
 <br/>
 
 ### **Mentor**
-- Credits: [Aniruddha Pandey](https://github.com/pandevim):v:
+- Credits: [Aniruddha Pandey](https://github.com/pandevimi):v:
