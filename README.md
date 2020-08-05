@@ -11,11 +11,6 @@
 ## Connect with me:
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/may.akshat)
 [<img align="left" alt="bitakshat | Github" width="22px" src="https://user-images.githubusercontent.com/41548582/89268728-8e3b3d80-d656-11ea-8dc9-1b970420170c.png" />](https://github.com/bitakshat)
-<br>
-
-<script type="text/javascript">
-	document.write("Hello World");
-</script>
 
 </td></tr></table>
 
