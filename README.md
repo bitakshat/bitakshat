@@ -2,7 +2,7 @@
 **:star:Learning Tech!:star:** 
 <br/>
 ### :blue_heart:Working on Graphics and Physics Engine:blue_heart:
-[<img align="center" width="200px" src="https://user-images.githubusercontent.com/31156696/87636081-c89f7200-c75d-11ea-850b-6c01d8e65a71.gif" />](https://reactphysics3d.com)
+[<img align="center" width="200px" src="https://user-images.githubusercontent.com/31156696/87636359-4499ba00-c75e-11ea-989a-d1b5447f7b53.gif" />](https://reactphysics3d.com)
 <br/>
 
 ## Connect with me:
