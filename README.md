@@ -6,10 +6,10 @@
 ### :blue_heart:Working on Graphics and Physics Engine:blue_heart:
 [<img align="center" width="200px" src="https://user-images.githubusercontent.com/31156696/87636359-4499ba00-c75e-11ea-989a-d1b5447f7b53.gif" />](https://reactphysics3d.com)
 
-</td><td valign="top" width="34%">
+</td><td valign="top" width="40%">
 
 ## Connect with me:
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/may.akshat)
+[<img align="left" alt="Akshat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/may.akshat)
 [<img align="left" alt="bitakshat | Github" width="22px" src="https://user-images.githubusercontent.com/41548582/89268728-8e3b3d80-d656-11ea-8dc9-1b970420170c.png" />](https://github.com/bitakshat)
 
 </td></tr></table>
