@@ -24,7 +24,7 @@
 [<img align="left" width="50px" src="https://user-images.githubusercontent.com/41548582/89271201-ffc8bb00-d659-11ea-99fd-e652c1c0ff12.png" />](https://sublimetext.com)
 [<img align="left" width="22px" src="https://user-images.githubusercontent.com/41548582/89273281-f68d1d80-d65c-11ea-9165-5da9fa58a876.png" />](https://linux.org)
 [<img align="left" width="22px" src="https://user-images.githubusercontent.com/41548582/89271426-50401880-d65a-11ea-8cbe-603148aa14fe.png" />](https://git-scm.com")
-[<img align="left" width=22px" src="https://user-images.githubusercontent.com/41548582/90308881-e993e800-df00-11ea-936c-146ced20cbf5.jpg" />](https://processing.org)
+[<img align="left" width="22px" src="https://user-images.githubusercontent.com/41548582/90308881-e993e800-df00-11ea-936c-146ced20cbf5.jpg" />](https://processing.org)
 
 <br/>
 
