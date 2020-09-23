@@ -1,4 +1,4 @@
-### Bonjour,👋 I'm [Akshat](https://github.com/bitakshat)
+### Bonjour,:wave: I'm [Akshat](https://github.com/bitakshat)
 **:star:Learning Tech!:star:** 
 <br/>
 <table border="1"><tr><td valign="top" width="67%">
