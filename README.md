@@ -28,6 +28,3 @@
 [<img align="left" width="22px" src="https://user-images.githubusercontent.com/41548582/90962371-1893f600-e4cd-11ea-8547-a539d3c61c61.png" />](https://editor.p5js.org)
 
 <br/>
-
-### **Mentor**
-- Credits: [Aniruddha Pandey](https://github.com/pandevim):v:
