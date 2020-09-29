@@ -29,5 +29,5 @@
 
 <br/>
 
-### **Mentor**
+### **Friend guru**
 - Credits: [Aniruddha Pandey](https://github.com/pandevim):v:
