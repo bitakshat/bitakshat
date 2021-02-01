@@ -3,7 +3,7 @@
 <br/>
 <table border="1"><tr><td valign="top" width="67%">
 
-### Learning Web Developmet:
+### Web Developmet:
 <img align="center" width="200px" src="https://user-images.githubusercontent.com/41548582/103801666-12fe0d80-5074-11eb-87dd-455744cee73d.gif"/>
 
 </td><td valign="top" width="40%">
