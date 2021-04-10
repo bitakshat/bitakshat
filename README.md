@@ -22,5 +22,8 @@
 [<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/41548582/114272100-47e27d80-9a32-11eb-8571-4732aedc10bc.png"/>](https://www.python.org/)
 [<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/41548582/114272128-6f394a80-9a32-11eb-8f63-2921510e6a30.png"/>](https://www.nodejs.org/)
 [<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/41548582/114272171-af98c880-9a32-11eb-9726-54b6e91f7276.png"/>](https://www.arduino.cc/)
+[<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/41548582/114272863-71e96f00-9a35-11eb-8ec8-cd49951ab588.png"/>](https://www.linux.org/)
 [<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/41548582/114272201-cf2ff100-9a32-11eb-9e15-fe7b4fffbf55.png"/>](https://www.raspberrypi.org/)
+[<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/41548582/114272911-a0674a00-9a35-11eb-94e6-f20453c048fc.png"/>](https://www.git-scm.com/)
+[<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/41548582/114272929-c4c32680-9a35-11eb-9c94-fa5e8999abea.png"/>](https://www.github.com/)
 <br/>
