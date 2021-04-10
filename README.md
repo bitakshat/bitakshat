@@ -16,6 +16,10 @@
 </td></tr></table>
 
 ## Languages and Tools
-<!-- [<img align="left" width="22px" src="https://user-images.githubusercontent.com/41548582/89270337-d5c2c900-d658-11ea-8b5b-0b0cc7b66c97.png" />](https://cplusplus.com) -->
- [<img align="left" src="https://user-images.githubusercontent.com/41548582/114271939-8a578a80-9a31-11eb-998b-ce68936a6d25.png"/>](https://cplusplus.com)
+[<img align="left" src="https://user-images.githubusercontent.com/41548582/114271939-8a578a80-9a31-11eb-998b-ce68936a6d25.png"/>](https://cplusplus.com)
+[<img align="left" src="https://user-images.githubusercontent.com/41548582/114272074-2bdedc00-9a32-11eb-918b-496cee832294.png"/>](https://www.javascript.com/)
+[<img align="left" src="https://user-images.githubusercontent.com/41548582/114272100-47e27d80-9a32-11eb-8571-4732aedc10bc.png"/>](https://www.python.org/)
+[<img align="left" src="https://user-images.githubusercontent.com/41548582/114272128-6f394a80-9a32-11eb-8f63-2921510e6a30.png"/>](https://www.nodejs.org/)
+[<img align="left" src="https://user-images.githubusercontent.com/41548582/114272171-af98c880-9a32-11eb-9726-54b6e91f7276.png"/>](https://www.arduino.cc/)
+[<img align="left" src="https://user-images.githubusercontent.com/41548582/114272201-cf2ff100-9a32-11eb-9e15-fe7b4fffbf55.png"/>](https://www.raspberrypi.org/)
 <br/>
