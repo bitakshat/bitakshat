@@ -15,12 +15,12 @@
 </td></tr></table>
 
 ## Languages and Tools
-[<img align="left" src="https://user-images.githubusercontent.com/41548582/114271939-8a578a80-9a31-11eb-998b-ce68936a6d25.png"/>](https://cplusplus.com)
-[<img align="left" src="https://user-images.githubusercontent.com/41548582/114272505-123e9400-9a34-11eb-835d-f8deaf6aed28.png"/>](https://html.com)
-[<img align="left" src="https://user-images.githubusercontent.com/41548582/114272613-7a8d7580-9a34-11eb-95da-a277a2ab400f.png"/>](https://www.w3.org/Style/CSS/Overview.en.html)
-[<img align="left" src="https://user-images.githubusercontent.com/41548582/114272074-2bdedc00-9a32-11eb-918b-496cee832294.png"/>](https://www.javascript.com/)
-[<img align="left" src="https://user-images.githubusercontent.com/41548582/114272100-47e27d80-9a32-11eb-8571-4732aedc10bc.png"/>](https://www.python.org/)
-[<img align="left" src="https://user-images.githubusercontent.com/41548582/114272128-6f394a80-9a32-11eb-8f63-2921510e6a30.png"/>](https://www.nodejs.org/)
-[<img align="left" src="https://user-images.githubusercontent.com/41548582/114272171-af98c880-9a32-11eb-9726-54b6e91f7276.png"/>](https://www.arduino.cc/)
-[<img align="left" src="https://user-images.githubusercontent.com/41548582/114272201-cf2ff100-9a32-11eb-9e15-fe7b4fffbf55.png"/>](https://www.raspberrypi.org/)
+[<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/41548582/114271939-8a578a80-9a31-11eb-998b-ce68936a6d25.png"/>](https://cplusplus.com)
+[<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/41548582/114272505-123e9400-9a34-11eb-835d-f8deaf6aed28.png"/>](https://html.com)
+[<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/41548582/114272613-7a8d7580-9a34-11eb-95da-a277a2ab400f.png"/>](https://www.w3.org/Style/CSS/Overview.en.html)
+[<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/41548582/114272074-2bdedc00-9a32-11eb-918b-496cee832294.png"/>](https://www.javascript.com/)
+[<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/41548582/114272100-47e27d80-9a32-11eb-8571-4732aedc10bc.png"/>](https://www.python.org/)
+[<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/41548582/114272128-6f394a80-9a32-11eb-8f63-2921510e6a30.png"/>](https://www.nodejs.org/)
+[<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/41548582/114272171-af98c880-9a32-11eb-9726-54b6e91f7276.png"/>](https://www.arduino.cc/)
+[<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/41548582/114272201-cf2ff100-9a32-11eb-9e15-fe7b4fffbf55.png"/>](https://www.raspberrypi.org/)
 <br/>
