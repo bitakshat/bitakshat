@@ -17,5 +17,5 @@
 
 ## Languages and Tools
 <!-- [<img align="left" width="22px" src="https://user-images.githubusercontent.com/41548582/89270337-d5c2c900-d658-11ea-8b5b-0b0cc7b66c97.png" />](https://cplusplus.com) -->
-<i class="programming lang-cpp"></i>("https://cppreference.com")
+ [<img align="left" src="https://user-images.githubusercontent.com/41548582/114271939-8a578a80-9a31-11eb-998b-ce68936a6d25.png"/>](https://cplusplus.com)
 <br/>
