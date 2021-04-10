@@ -2,7 +2,6 @@
 **:star:Learning Tech!:star:** 
 <br/>
 <table border="1"><tr><td valign="top" width="67%">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
 
 ### Web Developmet:
 <img align="center" width="200px" src="https://user-images.githubusercontent.com/41548582/103801666-12fe0d80-5074-11eb-87dd-455744cee73d.gif"/>
@@ -17,6 +16,8 @@
 
 ## Languages and Tools
 [<img align="left" src="https://user-images.githubusercontent.com/41548582/114271939-8a578a80-9a31-11eb-998b-ce68936a6d25.png"/>](https://cplusplus.com)
+[<img align="left" src="https://user-images.githubusercontent.com/41548582/114272505-123e9400-9a34-11eb-835d-f8deaf6aed28.png"/>](https://html.com)
+[<img align="left" src="https://user-images.githubusercontent.com/41548582/114272613-7a8d7580-9a34-11eb-95da-a277a2ab400f.png"/>](https://www.w3.org/Style/CSS/Overview.en.html)
 [<img align="left" src="https://user-images.githubusercontent.com/41548582/114272074-2bdedc00-9a32-11eb-918b-496cee832294.png"/>](https://www.javascript.com/)
 [<img align="left" src="https://user-images.githubusercontent.com/41548582/114272100-47e27d80-9a32-11eb-8571-4732aedc10bc.png"/>](https://www.python.org/)
 [<img align="left" src="https://user-images.githubusercontent.com/41548582/114272128-6f394a80-9a32-11eb-8f63-2921510e6a30.png"/>](https://www.nodejs.org/)
