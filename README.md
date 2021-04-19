@@ -6,7 +6,7 @@
 ### Web Developmet:
 <img align="center" width="200px" src="https://user-images.githubusercontent.com/41548582/103801666-12fe0d80-5074-11eb-87dd-455744cee73d.gif"/>
 
-</td><td valign="top" width="40%">
+</td><td valign="top" width="60%">
 
 ## Connect with me:
 [<img align="left" alt="Akshat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/bitakshat)
