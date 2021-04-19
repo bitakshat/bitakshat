@@ -11,6 +11,7 @@
 ## Connect with me:
 [<img align="left" alt="Akshat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/bitakshat)
 [<img align="left" alt="bitakshat | Github" width="22px" src="https://user-images.githubusercontent.com/41548582/89268728-8e3b3d80-d656-11ea-8dc9-1b970420170c.png" />](https://github.com/bitakshat)
+[<img align="left" alt="bitakshat | Github" width="22px" src="https://user-images.githubusercontent.com/41548582/115293239-b29f6180-a174-11eb-904e-48fecfce97cf.png"/>](https://www.linkedin.com/in/bitakshat/)
 
 </td></tr></table>
 
