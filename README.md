@@ -14,7 +14,10 @@
 
 [<img align="left" alt="bitakshat | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/41548582/115293239-b29f6180-a174-11eb-904e-48fecfce97cf.png"/>](https://www.linkedin.com/in/bitakshat/)
 
-[<img align="left" alt="bitakshat | Twitter" width="22px" src="https://user-images.githubusercontent.com/41548582/115576236-ef886700-a2e0-11eb-969d-92fa5767f7b0.png"/>](https://twitter.com/akshatpal1232/)
+[<img align="left" alt="bitakshat | Twitter" width="22px" src="https://user-images.githubusercontent.com/41548582/116593797-1bd66000-a93f-11eb-86f4-fb5792cb9359.png"/>](https://twitter.com/akshatpal1232/)
+
+[<img align="left" alt="bitakshat | Discord" width="22px" src="https://user-images.githubusercontent.com/41548582/116593955-4fb18580-a93f-11eb-9d35-afce2dbd2136.png"/>](https://discord.com/)
+
 
 </td></tr></table>
 
