@@ -16,9 +16,6 @@
 
 [<img align="left" alt="bitakshat | Twitter" width="22px" src="https://user-images.githubusercontent.com/41548582/116593797-1bd66000-a93f-11eb-86f4-fb5792cb9359.png"/>](https://twitter.com/akshatpal1232/)
 
-[<img align="left" alt="bitakshat | Discord" width="22px" src="https://user-images.githubusercontent.com/41548582/116593955-4fb18580-a93f-11eb-9d35-afce2dbd2136.png"/>](https://discord.com/)
-
-
 </td></tr></table>
 
 ## Languages and Tools
