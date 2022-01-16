@@ -29,5 +29,5 @@
 [<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/41548582/114272863-71e96f00-9a35-11eb-8ec8-cd49951ab588.png"/>](https://www.linux.org/)
 [<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/41548582/114272201-cf2ff100-9a32-11eb-9e15-fe7b4fffbf55.png"/>](https://www.raspberrypi.org/)
 [<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/41548582/114272911-a0674a00-9a35-11eb-94e6-f20453c048fc.png"/>](https://www.git-scm.com/)
-[<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/41548582/114272929-c4c32680-9a35-11eb-9c94-fa5e8999abea.png"/>](https://www.github.com/)
+[<img align="left" width="30px" height="30px" src="https://user-images.githubusercontent.com/41548582/149662138-f2a86485-37ab-4b9e-850d-e417808ef7af.png"/>](https://reactjs.org/)
 <br/>
